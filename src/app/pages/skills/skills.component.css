@@ -1,0 +1,19 @@
+.container{
+    width: auto;
+    height: 20px;
+}
+.h4{
+    font-size: 3.5rem;
+    align-self: center;
+    font-weight: bold;
+}
+.card{
+    -ms-flex-align: center;
+}
+.mb-4 {
+    margin-bottom: 3.5rem!important;
+}
+.col-md-6 {
+    flex: 0 0 auto;
+    width: 100%;
+}
